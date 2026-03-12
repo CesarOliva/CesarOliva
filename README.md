@@ -9,24 +9,30 @@ I’m especially interested in **tools for businesses**, experimental projects, 
 
 ---
 
-## Tech Stack1
+## Tech Stack
 
 **Main Languages**
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css](https://skillicons.dev)
 
 **Other Languages**
+
 [![My Skills](https://skillicons.dev/icons?i=java,py,arduino)](https://skillicons.dev)
 
 **Frontend**
+
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
 
 **Backend**
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 **Databases**
+
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
 
 **Tools**
+
 [![My Skills](https://skillicons.dev/icons?i=git,github,linux,figma)](https://skillicons.dev)
 
 ---
@@ -62,18 +68,12 @@ I also enjoy sharing knowledge and helping my friends understand programming con
 > My goal as a developer is to build software that helps people gain better control over their processes and makes their work easier.
 
 ---
-
-##Github Stats
 ![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarOliva&show_icons=true&theme=tokyonight)
 
 ---
-
-##Top languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarOliva&layout=compact&theme=tokyonight)
 
 ---
-
-#Github Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=CesarOliva&theme=tokyonight)
 
 ## Portfolio
@@ -84,4 +84,4 @@ I also enjoy sharing knowledge and helping my friends understand programming con
 
 ## Contact
 
-Email: cesaroliva.work@gmail.com
+cesaroliva.work@gmail.com
