@@ -1,6 +1,9 @@
 # Cesar Oliva
+
 💻 Web Developer focused on Frontend
+
 📍 Monterrey, Mexico
+
 🎓 Computer Systems Engineering Student
 
 I enjoy building software that helps people and businesses have better control over their processes. Most of my work focuses on **web development**, combining functionality with clean and intuitive interfaces.
