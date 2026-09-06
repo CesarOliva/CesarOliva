@@ -50,9 +50,7 @@ I particularly enjoy working on **software architecture and implementing UI/UX**
 
 ## Achievements
 
-🏆 Hackathon Winner
-
-🏆 Programming Competition Winner
+🏆 2x Hackathon Winner
 
 Projects I’ve worked on include:
 * Web Games
