@@ -71,7 +71,6 @@ I also enjoy sharing knowledge and helping my friends understand programming con
 > My goal as a developer is to build software that helps people gain better control over their processes and makes their work easier.
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarOliva&layout=compact&theme=tokyonight)
 
 ## Portfolio
 
