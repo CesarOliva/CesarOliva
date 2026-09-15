@@ -72,6 +72,15 @@ I also enjoy sharing knowledge and helping my friends understand programming con
 
 ---
 
+## Code Stats
+
+<p align="center">
+<a href="https://github.com/CesarOliva">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CesarOliva&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CesarOliva&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ## Portfolio
 
 <a href="https://bycesaroliva.com">bycesaroliva.com</a>
