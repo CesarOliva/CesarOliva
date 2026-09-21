@@ -28,7 +28,7 @@ I’m especially interested in **tools for businesses**, experimental projects, 
 
 **Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,supabase)](https://skillicons.dev)
 
 **Databases**
 
