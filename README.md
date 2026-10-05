@@ -16,7 +16,7 @@ I’m especially interested in **tools for businesses**, experimental projects, 
 
 **Main Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 
 **Other Languages**
 
@@ -28,7 +28,7 @@ I’m especially interested in **tools for businesses**, experimental projects, 
 
 **Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,supabase)](https://skillicons.dev)
 
 **Databases**
 
@@ -36,7 +36,7 @@ I’m especially interested in **tools for businesses**, experimental projects, 
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,figma,wordpress)](https://skillicons.dev)
 
 ---
 
